@@ -355,6 +355,50 @@ Concepts: [
     { word: "transcendance", keywords: "révélation élévation" },
     { word: "ténèbres", keywords: "ombre ombre obscurité nuit lune" }
   ],
+  Phrases: [
+    { word: "es-tu prêt ?", keywords: "préparé prêt allez" },
+    { word: "beau", keywords: "joli charmant magnifique splendide femme fille" },
+    { word: "fais-le !", keywords: "vas-y essaie" },
+    { word: "n'abandonne pas", keywords: "continue arrête" },
+    { word: "ne pense pas", keywords: "non arrête les pensées fais-le simplement esprit" },
+    { word: "n'ose pas !", keywords: "interdire arrête non" },
+    { word: "abandonner", keywords: "quitter se rendre arrêter" },
+    { word: "bonne chance", keywords: "fortune vœux de bien chance bénédiction prospérité" },
+    { word: "aide-moi...", keywords: "assistance aide soutien esprit cendres invoquer en ligne" },
+    { word: "ici !", keywords: "viens regarde là" },
+    { word: "ici encore...", keywords: "retour une fois" },
+    { word: "c'est comme un rêve...", keywords: "irréel surréaliste sommeil sublime" },
+    { word: "je ne peux pas supporter ça...", keywords: "frustration colère désespoir incapable" },
+    { word: "je l'ai fait !", keywords: "succès hourra gagné victoire triomphe succès réalisation conquête" },
+    { word: "je n'y crois pas", keywords: "surprise choc incrédulité" },
+    { word: "je veux rentrer à la maison...", keywords: "nostalgie peur effrayé" },
+    { word: "j'ai échoué...", keywords: "échec perdu défaite perte effondrement ruine" },
+    { word: "juste le début", keywords: "seulement le commencement" },
+    { word: "continue à avancer", keywords: "avance continue ne t'arrête pas" },
+    { word: "regarde bien", keywords: "regarde cherche yeux voir" },
+    { word: "écoute bien", keywords: "écoute attention bruit son" },
+    { word: "pas ici !", keywords: "absent absence là-bas" },
+    { word: "ça semble familier...", keywords: "déjà vu ici avant répétition" },
+    { word: "si seul...", keywords: "seul solitude tristesse" },
+    { word: "reste calme", keywords: "détends-toi paix" },
+    { word: "réfléchis bien", keywords: "considère pense" },
+    { word: "trop haut", keywords: "escalader échelle chute dommage mort" },
+    { word: "retourne", keywords: "revenir reculer" },
+    { word: "bien joué", keywords: "bon travail félicitations" },
+    { word: "tu n'as pas le droit", keywords: "interdire non porte verrouillée" }
+  ],
+  Conjunctions: [
+    { word: "d'autant plus", keywords: "même ainsi" },
+    { word: "et puis", keywords: "suivant après ensuite" },
+    { word: "mais", keywords: "cependant néanmoins pourtant" },
+    { word: "au fait", keywords: "incidemment à propos" },
+    { word: "excepté", keywords: "exclu à part" },
+    { word: "en bref", keywords: "brièvement succinctement" },
+    { word: "ou", keywords: "soit sinon" },
+    { word: "en quelque sorte", keywords: "comme si pour dire donc ainsi" },
+    { word: "donc", keywords: "ainsi par conséquent" },
+    { word: ",", keywords: "et" }
+  ]
 };
 
 export default wordCategories;
